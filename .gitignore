@@ -1,0 +1,16 @@
+node_modules
+*.html~
+*.js~
+*~
+*.orig
+path.txt
+prepros.cfg
+# ignore csv file
+*.csv
+
+# ignore mac display settings files
+.DS_Store
+
+# ignore windows display setting files
+Thumbs.db
+
